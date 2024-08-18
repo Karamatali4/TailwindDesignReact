@@ -3,3 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+h1{
+  font-size: 160px;
+color: #2d2736;
+font-weight: 700;
+font-family: "Poppins";
+}
